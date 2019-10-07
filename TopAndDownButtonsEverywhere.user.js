@@ -5,11 +5,11 @@
 // @author 2018+ Volkan K., 2014-2016 Max Max
 // @license MIT
 // @include *
-// @icon http://pics.smotri.com/cskins/blue/smiles/bt.gif
+// @icon https://github.com/moosedookie/TopAndDownButtons/blob/master/icon.png
 // @run-at document-end
 // @grant unsafeWindow
-// @require https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js
-// @require https://cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.2/jquery.scrollTo.min.js
+// @require https://raw.githubusercontent.com/moosedookie/TopAndDownButtons/master/jquery.min.js
+// @require https://raw.githubusercontent.com/moosedookie/TopAndDownButtons/master/jquery.scrollTo.min.js
 // ==/UserScript==
 
 var RANDOM = Math.floor(Math.random() * 1234567890);
