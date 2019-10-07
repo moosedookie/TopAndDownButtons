@@ -5,7 +5,7 @@
 // @author 2018+ Volkan K., 2014-2016 Max Max
 // @license MIT
 // @include *
-// @icon https://github.com/moosedookie/TopAndDownButtons/blob/master/icon.png
+// @icon https://github.com/moosedookie/TopAndDownButtons/raw/master/icon.png
 // @run-at document-end
 // @grant unsafeWindow
 // @require https://raw.githubusercontent.com/moosedookie/TopAndDownButtons/master/jquery.min.js
