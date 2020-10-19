@@ -1,15 +1,17 @@
 // ==UserScript==
 // @name TopAndDownButtonsEverywhere
 // @description Top and Down buttons everywhere
-// @version 1.7
-// @author 2018+ Volkan K., 2014-2016 Max Max
+// @version 1.7.1
+// @author 2019+ moosedookie, 2018+ Volkan K., 2014-2016 Max Max
 // @license MIT
 // @include *
-// @icon https://github.com/moosedookie/TopAndDownButtons/raw/master/icon.png
+// @icon https://raw.githubusercontent.com/moosedookie/TopAndDownButtons/master/icon.png
 // @run-at document-end
 // @grant unsafeWindow
 // @require https://raw.githubusercontent.com/moosedookie/TopAndDownButtons/master/jquery.min.js
 // @require https://raw.githubusercontent.com/moosedookie/TopAndDownButtons/master/jquery.scrollTo.min.js
+// @updateURL https://raw.githubusercontent.com/moosedookie/TopAndDownButtons/master/TopAndDownButtonsEverywhere.user.js
+// @downloadURL https://raw.githubusercontent.com/moosedookie/TopAndDownButtons/master/TopAndDownButtonsEverywhere.user.js
 // ==/UserScript==
 
 var RANDOM = Math.floor(Math.random() * 1234567890);
